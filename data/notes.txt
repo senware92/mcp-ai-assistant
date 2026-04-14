@@ -1,0 +1,7 @@
+Model Context Protocol enables AI systems to call external tools in a structured way.
+
+Tool-based reasoning improves reliability by avoiding hallucinations and using real computations.
+
+Retrieval augmented generation improves answers by grounding them in real documents.
+
+Modular AI systems allow easy extension with new tools.
